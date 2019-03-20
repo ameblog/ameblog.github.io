@@ -1,2 +1,2 @@
-# ameblog.github.io
-Welcome to Ame Blog!
+# AmeBlog
+Welcome to AmeBlog !
