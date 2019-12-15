@@ -1,2 +1,1 @@
 # AmeBlog
-Welcome to AmeBlog !
